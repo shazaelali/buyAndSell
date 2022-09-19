@@ -1,0 +1,66 @@
+.search-width{
+    width: 450px;
+}
+.carousel-item {
+    height: 32rem;
+    background: #777;
+    color:rgb(39, 36, 36);
+    background-image: url("https://www.ishtari.com/image/data/system_banner/10000/400/376/eiffel-chairs.png");
+
+    
+}
+.carousel-content{
+    position: absolute;
+    bottom:0;
+    left:0;
+    
+}
+.size-image{
+    width: 12rem;
+    height: 14rem
+}
+.div-img{
+    align-self: center;
+}
+.Modal-center{
+    top:20% !important;
+    
+
+}
+.card-width{
+    width:18rem;
+  }
+  @media screen and (max-width: 280px) {
+    .search-width{
+        width: 200px;
+    } 
+    /* .card-width{
+        width:14rem;
+      } */
+   } 
+
+   @media screen and (max-width: 500px) {
+    .search-width{
+        width: 200px;
+    } 
+    /* .card-width{
+        width:20rem;
+      /* } */
+   }  
+   @media screen and (max-width: 540px) {
+    .search-width{
+        width: 200px;
+    } 
+    /* .card-width{
+        width: 14rem;
+      } */
+   } 
+/* @media screen and (min-width: 200px) {
+    .search-width{
+        width: 300px
+    }
+    .card-width{
+        width:21rem;
+      }
+  }  */
+
